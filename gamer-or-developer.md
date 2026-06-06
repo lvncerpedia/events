@@ -1,17 +1,4 @@
-ゲーム好き向けと、開発者向けを混ぜて「行く価値あるやつ」。
-インディー寄り、商業寄り、技術寄り、交流寄りも混ぜている。
-
-**凡例（タイプ）:** 総合 / インディー / 技術 / 交流 / ジャム / オンライン / ゲーマー
-
-## 目的別おすすめ（迷ったらここ）
-
-| こんな人                 | まず行くなら                                 | 次に行くなら                              |
-| ------------------------ | -------------------------------------------- | ----------------------------------------- |
-| インディー開発者         | BitSummit、TOKYO INDIE GAMES SUMMIT          | IDC、Steam Next Fest                      |
-| 技術・エンジニア         | CEDEC、Unreal Fest                           | GDC Festival of Gaming、SIGGRAPH          |
-| ゲーマー（新作触りたい） | 東京ゲームショウ、Gamescom                   | PAX West、Taipei Game Show                |
-| 学生・初心者             | Global Game Jam、OPEN GAME FEST              | Unity1Week、ゲームメーカーズ スクランブル |
-| 交流・業界感を掴みたい   | Tokyo Indies、Developers' Night（CEDEC付帯） | gamescom dev、WePlay Expo                 |
+# ゲーマー・ゲーム開発者向けイベント
 
 ## 日本
 
