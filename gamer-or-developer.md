@@ -64,16 +64,17 @@
 
 ### 超大型・世界的
 
-| イベント                                            | 時期                | 場所                   | タイプ                | ひとこと                                                              |
-| --------------------------------------------------- | ------------------- | ---------------------- | --------------------- | --------------------------------------------------------------------- |
-| [Gamescom](https://www.gamescom.global/)            | 8月                 | ドイツ・ケルン         | 総合                  | 世界最大級。来場者数が化け物。インディーも強い                        |
-| [gamescom dev](https://dev.gamescom.global/)        | 8月（Gamescom直前） | ドイツ・ケルン         | 技術 / インディー     | 旧devcom。**開発者向けはこっち**。B2B・インディーエキスポ・講演が充実 |
-| [GDC Festival of Gaming](https://gdconf.com/)       | 3月                 | 米国・サンフランシスコ | 技術 / 交流           | 旧GDC。開発者の聖地。ネットワーキングが超重要                         |
-| [Summer Game Fest](https://www.summergamefest.com/) | 6月                 | オンライン中心         | オンライン / ゲーマー | E3後継ポジション。新作発表ウィンドウ                                  |
-| [PAX East](https://east.paxsite.com/)               | 3月                 | 米国・ボストン         | ゲーマー / 総合       | 東海岸最大級。インディー・テーブルトップも厚い                        |
-| [PAX West](https://west.paxsite.com/)               | 8〜9月              | 米国・シアトル         | ゲーマー / 総合       | 西海岸版PAX                                                           |
-| [PAX Australia](https://aus.paxsite.com/)           | 10月ごろ            | 豪州・メルボルン       | ゲーマー / 総合       | 南半球のPAX                                                           |
-| [PAX Unplugged](https://unplugged.paxsite.com/)     | 11月ごろ            | 米国・フィラデルフィア | ゲーマー              | テーブルトップ・ボードゲーム特化のPAX                                 |
+| Event                                               | Date    | Website |
+| --------------------------------------------------- | ------ | ---------------------- |
+| State of Play                                       | 年数回 ||
+| [Gamescom](https://www.gamescom.global/)            | 8月   ||
+| [gamescom dev](https://dev.gamescom.global/)        | 8月   ||
+| [GDC Festival of Gaming](https://gdconf.com/)       | 3月   ||
+| Summer Game Fest                                    | 6月   | https://www.summergamefest.com/ |
+| [PAX East](https://east.paxsite.com/)               | 3月   ||
+| [PAX West](https://west.paxsite.com/)               | 8〜9月 ||
+| [PAX Australia](https://aus.paxsite.com/)           | 10月ごろ ||
+| [PAX Unplugged](https://unplugged.paxsite.com/)     | 11月ごろ ||
 
 ### アジア太平洋
 
